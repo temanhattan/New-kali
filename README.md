@@ -26,7 +26,6 @@
 
 ```
 chmod +x kali.sh
-
 ```
 3.**Run the Script:** Now, for the grand finale! Type this command in your terminal to unleash the update and upgrade awesomeness:
 
