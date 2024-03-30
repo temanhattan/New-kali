@@ -1,4 +1,4 @@
-**Upgrade My Rig Like a Hacker: The Update & Upgrade Kali Script** 
+**Upgrade My Rig Like a Hacker: The Kali Script** 
 
 **Yo, fellow Kali crusaders!** Feeling sluggish system performance? Package woes got you down? Fear not, for this here script is your one-stop shop for a shiny, up-to-date Kali experience. Think of it like a digital power wash for your cyber arsenal. 
 
